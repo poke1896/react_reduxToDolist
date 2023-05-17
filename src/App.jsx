@@ -1,5 +1,5 @@
 import bgVideo from "./assets/bg.mp4";
-import Heading from "./components/heading";
+import Heading from "./components/Heading";
 import ToDoList from "./components/ToDoList";
 
 function App() {

@@ -1,12 +1,7 @@
 import React from "react";
 
 const Heading = () => {
-  return (
-    <div className="text-center">
-      <h1 className="text-4xl font-bold mb-8">ToDoList.</h1>
-    </div>
-  );
+  return <div className="text-center text-4xl font-bold">Ye's ToDoList</div>;
 };
 
 export default Heading;
-
